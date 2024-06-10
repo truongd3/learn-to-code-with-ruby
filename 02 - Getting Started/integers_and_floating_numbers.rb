@@ -1,0 +1,1 @@
+puts 1_000 # _ is optional to separate ONE number

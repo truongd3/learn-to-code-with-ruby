@@ -1,0 +1,1 @@
+puts "hello".upcase.length.pred # 4
