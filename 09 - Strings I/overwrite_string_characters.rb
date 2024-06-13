@@ -1,0 +1,1 @@
+# String in Ruby is mutable
