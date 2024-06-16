@@ -1,0 +1,1 @@
+# Ruby gem -- a package of code for Ruby that adds specific functionality to Ruby applications
