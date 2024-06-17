@@ -1,0 +1,1 @@
+p ["Hello", "b", "c", "d"].include?("a") # false
