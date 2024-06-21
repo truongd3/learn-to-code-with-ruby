@@ -4,8 +4,8 @@
   "code-runner.executorMap": {
     "ruby": "ruby"
   },
-  "code-runner.saveFileBeforeRun": true,
-  "code-runner.saveAllFilesBeforeRun": true,
+  "code-runner.saveFileBeforeRun": false,
+  "code-runner.saveAllFilesBeforeRun": false,
   "code-runner.showExecutionMessage": false,
   "editor.fontSize": 18,
   "editor.formatOnSave": false,
